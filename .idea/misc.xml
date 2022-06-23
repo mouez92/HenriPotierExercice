@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/drawable/bg_color.xml" value="0.1" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/layout/activity_offer.xml" value="0.136" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/layout/adapter_book.xml" value="0.1" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/layout/adapter_movie.xml" value="0.1" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/layout/bg_offer_activity.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/moezb/AndroidStudioProjects/HenriPotierLibTest/app/src/main/res/menu/action_mode_menu.xml" value="0.12447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

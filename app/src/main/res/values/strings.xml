@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HenriPotierLibTest</string>
+    <string name="best_offer">Best Offer</string>
+    <string name="tv_info_offer">Here is the best offer found for your demand, we always try to give you the best service ever desired :</string>
+    <string name="tv_initial_price">Initial price :</string>
+    <string name="tv_type_offer">Type offer :</string>
+    <string name="tv_final_price">Final price :</string>
+</resources>
